@@ -33,4 +33,4 @@ Bonus Questions
 **Check out the complete description of case study @https://8weeksqlchallenge.com/case-study-1/  
 Find my solutions @[CaseStudy1-solutions](https://github.com/KhushbuChouhan44/8-week-SQL-challenge/blob/main/CaseStudy1-Danny'sDiner.md)**
 
-
+Hit me a star:star: right above if you like it!
